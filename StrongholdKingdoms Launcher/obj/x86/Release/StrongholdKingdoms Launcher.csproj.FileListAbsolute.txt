@@ -1,0 +1,7 @@
+D:\Git\SHK\StrongholdKingdoms Launcher\bin\Release\StrongholdKingdoms.exe
+D:\Git\SHK\StrongholdKingdoms Launcher\bin\Release\StrongholdKingdoms.pdb
+D:\Git\SHK\StrongholdKingdoms Launcher\bin\Release\DDay.Update.DLL
+D:\Git\SHK\StrongholdKingdoms Launcher\bin\Release\Localization.DLL
+D:\Git\SHK\StrongholdKingdoms Launcher\obj\x86\Release\StrongholdKingdoms Launcher.csprojResolveAssemblyReference.cache
+D:\Git\SHK\StrongholdKingdoms Launcher\obj\x86\Release\StrongholdKingdoms.exe
+D:\Git\SHK\StrongholdKingdoms Launcher\obj\x86\Release\StrongholdKingdoms.pdb

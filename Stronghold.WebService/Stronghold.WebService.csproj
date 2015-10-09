@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectType>local</ProjectType>
+    <ProjectVersion>7.10.377</ProjectVersion>
+    <ProjectGuid>{4EDA871A-6EBF-46AC-AB95-1ACFDE99E334}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <AssemblyName>Stronghold.WebService</AssemblyName>
+    <OutputType>Library</OutputType>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <Reference Include="CookComputing.XmlRpcV2">
+      <HintPath>D:\Develop\SHK Game\Stronghold Kingdoms\2.0.26.1\CookComputing.XmlRpcV2.dll</HintPath>
+    </Reference>
+    <Reference Include="CommonTypes">
+      <HintPath>D:\Develop\SHK Game\Stronghold Kingdoms\2.0.26.1\CommonTypes.dll</HintPath>
+    </Reference>
+    <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="Global.cs" />
+    <Compile Include="Stronghold\AuthClient\XmlRpcReqStruct.cs" />
+    <Compile Include="Stronghold\AuthClient\XmlRpcRespStruct.cs" />
+    <Compile Include="Stronghold\AuthClient\AuthProxy.cs" />
+    <Compile Include="Stronghold\AuthClient\XmlRpcReqStruct_Sql.cs" />
+    <Compile Include="Stronghold\AuthClient\XmlRpcRespStruct_Sql.cs" />
+    <Compile Include="Stronghold\AuthClient\SqlProxy.cs" />
+    <Compile Include="Stronghold\AuthClient\XmlRpcReqStruct_Cards.cs" />
+    <Compile Include="Stronghold\AuthClient\XmlRpcRespStruct_Cards.cs" />
+    <Compile Include="Stronghold\AuthClient\CardsProxy.cs" />
+    <Compile Include="Stronghold\AuthClient\XmlRpcReqStruct_BP.cs" />
+    <Compile Include="Stronghold\AuthClient\XmlRpcRespStruct_BP.cs" />
+    <Compile Include="Stronghold\AuthClient\BPProxy.cs" />
+    <Compile Include="Stronghold\AuthClient\ICardsResponse.cs" />
+    <Compile Include="Stronghold\AuthClient\XmlRpcCardsResponse.cs" />
+    <Compile Include="Stronghold\AuthClient\mySqlGetResponseDelegate.cs" />
+    <Compile Include="Stronghold\AuthClient\mySqlEndResponseDelegate.cs" />
+    <Compile Include="Stronghold\AuthClient\mySqlEndResponseObjectDelegate.cs" />
+    <Compile Include="Stronghold\AuthClient\mySqlEndResponseStringDelegate.cs" />
+    <Compile Include="Stronghold\AuthClient\ICardsProvider.cs" />
+    <Compile Include="Stronghold\AuthClient\XmlRpcCardsProvider.cs" />
+    <Compile Include="Stronghold\AuthClient\ITestProxy.cs" />
+    <Compile Include="Stronghold\AuthClient\TestWebService.cs" />
+    <Compile Include="Stronghold\AuthClient\ImySqlResponse.cs" />
+    <Compile Include="Stronghold\AuthClient\BPGetResponseDelegate.cs" />
+    <Compile Include="Stronghold\AuthClient\BPEndResponseDelegate.cs" />
+    <Compile Include="Stronghold\AuthClient\BPEndResponseObjectDelegate.cs" />
+    <Compile Include="Stronghold\AuthClient\BPEndResponseStringDelegate.cs" />
+    <Compile Include="Stronghold\AuthClient\ICardsRequest.cs" />
+    <Compile Include="Stronghold\AuthClient\ImySqlProvider.cs" />
+    <Compile Include="Stronghold\AuthClient\IBPResponse.cs" />
+    <Compile Include="Stronghold\AuthClient\XmlRpcBPResponse.cs" />
+    <Compile Include="Stronghold\AuthClient\IAuthResponse.cs" />
+    <Compile Include="Stronghold\AuthClient\AuthGetResponseDelegate.cs" />
+    <Compile Include="Stronghold\AuthClient\AuthEndResponseDelegate.cs" />
+    <Compile Include="Stronghold\AuthClient\AuthEndResponseObjectDelegate.cs" />
+    <Compile Include="Stronghold\AuthClient\AuthEndResponseStringDelegate.cs" />
+    <Compile Include="Stronghold\AuthClient\XmlRpcCardsRequest.cs" />
+    <Compile Include="Stronghold\AuthClient\XmlRpcMySqlResponse.cs" />
+    <Compile Include="Stronghold\AuthClient\CardsGetResponseDelegate.cs" />
+    <Compile Include="Stronghold\AuthClient\CardsEndResponseDelegate.cs" />
+    <Compile Include="Stronghold\AuthClient\CardsEndResponseObjectDelegate.cs" />
+    <Compile Include="Stronghold\AuthClient\CardsEndResponseStringDelegate.cs" />
+    <Compile Include="Stronghold\AuthClient\IBPProvider.cs" />
+    <Compile Include="Stronghold\AuthClient\XmlRpcAuthResponse.cs" />
+    <Compile Include="Stronghold\AuthClient\XmlRpcBPProvider.cs" />
+    <Compile Include="Stronghold\AuthClient\IBPRequest.cs" />
+    <Compile Include="Stronghold\AuthClient\XmlRpcBPRequest.cs" />
+    <Compile Include="Stronghold\AuthClient\IAuthProvider.cs" />
+    <Compile Include="Stronghold\AuthClient\ImySqlRequest.cs" />
+    <Compile Include="Stronghold\AuthClient\XmlRpcMySqlProvider.cs" />
+    <Compile Include="Stronghold\AuthClient\IAuthRequest.cs" />
+    <Compile Include="Stronghold\AuthClient\XmlRpcAuthRequest.cs" />
+    <Compile Include="Stronghold\AuthClient\XmlRpcAuthProvider.cs" />
+    <Compile Include="Stronghold\AuthClient\XmlRpcMySqlRequest.cs" />
+    <Compile Include="Stronghold\AuthClient\IATestProxy.cs" />
+    <Compile Include="Stronghold\AuthClient\CallbackCompletedHander.cs" />
+    <Compile Include="Stronghold\AuthClient\GenericTest!1.cs" />
+    <Compile Include="Stronghold\AuthClient\AsynchTest.cs" />
+    <Reference Include="System" />
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+</Project>

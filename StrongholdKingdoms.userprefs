@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="StrongholdKingdoms/StrongholdKingdoms.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="StrongholdKingdoms/Upgrades/DataExport.cs">
+    <Files>
+      <File FileName="StrongholdKingdoms/Upgrades/DataExport.cs" Line="22" Column="16" />
+      <File FileName="StrongholdKingdoms/Kingdoms/Program.cs" Line="334" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

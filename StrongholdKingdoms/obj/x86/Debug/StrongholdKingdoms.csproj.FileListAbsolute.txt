@@ -1,0 +1,23 @@
+D:\Git\SHK\StrongholdKingdoms\bin\Debug\StrongholdKingdoms.exe
+D:\Git\SHK\StrongholdKingdoms\bin\Debug\StrongholdKingdoms.pdb
+D:\Git\SHK\StrongholdKingdoms\bin\Debug\CommonTypes.dll
+D:\Git\SHK\StrongholdKingdoms\bin\Debug\CustomSinks.dll
+D:\Git\SHK\StrongholdKingdoms\bin\Debug\DataClient.dll
+D:\Git\SHK\StrongholdKingdoms\bin\Debug\DataInterface.dll
+D:\Git\SHK\StrongholdKingdoms\bin\Debug\DXGraphics.dll
+D:\Git\SHK\StrongholdKingdoms\bin\Debug\ServerInterface.dll
+D:\Git\SHK\StrongholdKingdoms\bin\Debug\Skybound.Gecko.dll
+D:\Git\SHK\StrongholdKingdoms\bin\Debug\SlimDX.dll
+D:\Git\SHK\StrongholdKingdoms\bin\Debug\Stronghold.ShieldClient.dll
+D:\Git\SHK\StrongholdKingdoms\bin\Debug\Stronghold.WebService.dll
+D:\Git\SHK\StrongholdKingdoms\bin\Debug\NAudio.dll
+D:\Git\SHK\StrongholdKingdoms\bin\Debug\zlib.net.dll
+D:\Git\SHK\StrongholdKingdoms\bin\Debug\CookComputing.XmlRpcV2.dll
+D:\Git\SHK\StrongholdKingdoms\bin\Debug\Svg.dll
+D:\Develop\SHK Game\Stronghold Kingdoms\2.0.26.1\StrongholdKingdoms.exe
+D:\Develop\SHK Game\Stronghold Kingdoms\2.0.26.1\StrongholdKingdoms.pdb
+D:\Git\SHK\StrongholdKingdoms\obj\x86\Debug\StrongholdKingdoms.csprojResolveAssemblyReference.cache
+D:\Git\SHK\StrongholdKingdoms\obj\x86\Debug\Kingdoms.ControlForm.resources
+D:\Git\SHK\StrongholdKingdoms\obj\x86\Debug\StrongholdKingdoms.csproj.GenerateResource.Cache
+D:\Git\SHK\StrongholdKingdoms\obj\x86\Debug\StrongholdKingdoms.exe
+D:\Git\SHK\StrongholdKingdoms\obj\x86\Debug\StrongholdKingdoms.pdb

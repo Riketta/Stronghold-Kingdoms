@@ -1,0 +1,14 @@
+C:\Users\Riketta\Documents\Reflector\Disassembler\Stronghold.WebService\obj\x86\Debug\Stronghold.WebService.csprojResolveAssemblyReference.cache
+C:\Users\Riketta\Documents\Reflector\Disassembler\Stronghold.WebService\bin\Debug\Stronghold.WebService.dll
+C:\Users\Riketta\Documents\Reflector\Disassembler\Stronghold.WebService\bin\Debug\Stronghold.WebService.pdb
+C:\Users\Riketta\Documents\Reflector\Disassembler\Stronghold.WebService\bin\Debug\CommonTypes.dll
+C:\Users\Riketta\Documents\Reflector\Disassembler\Stronghold.WebService\bin\Debug\CookComputing.XmlRpcV2.dll
+C:\Users\Riketta\Documents\Reflector\Disassembler\Stronghold.WebService\obj\x86\Debug\Stronghold.WebService.dll
+C:\Users\Riketta\Documents\Reflector\Disassembler\Stronghold.WebService\obj\x86\Debug\Stronghold.WebService.pdb
+D:\Git\SHK\Stronghold.WebService\bin\Debug\Stronghold.WebService.dll
+D:\Git\SHK\Stronghold.WebService\bin\Debug\Stronghold.WebService.pdb
+D:\Git\SHK\Stronghold.WebService\bin\Debug\CommonTypes.dll
+D:\Git\SHK\Stronghold.WebService\bin\Debug\CookComputing.XmlRpcV2.dll
+D:\Git\SHK\Stronghold.WebService\obj\x86\Debug\Stronghold.WebService.csprojResolveAssemblyReference.cache
+D:\Git\SHK\Stronghold.WebService\obj\x86\Debug\Stronghold.WebService.dll
+D:\Git\SHK\Stronghold.WebService\obj\x86\Debug\Stronghold.WebService.pdb

@@ -1,0 +1,9 @@
+D:\Git\SHK\StrongholdKingdoms\obj\x86\Release\StrongholdKingdoms.csprojResolveAssemblyReference.cache
+D:\Git\SHK\StrongholdKingdoms\obj\x86\Release\Kingdoms.ControlForm.resources
+D:\Git\SHK\StrongholdKingdoms\obj\x86\Release\StrongholdKingdoms.csproj.GenerateResource.Cache
+D:\Develop\SHK Game\Stronghold Kingdoms\2.0.26.1\StrongholdKingdoms.exe
+D:\Develop\SHK Game\Stronghold Kingdoms\2.0.26.1\StrongholdKingdoms.pdb
+D:\Git\SHK\StrongholdKingdoms\obj\x86\Release\StrongholdKingdoms.exe
+D:\Git\SHK\StrongholdKingdoms\obj\x86\Release\StrongholdKingdoms.pdb
+F:\SHK\StrongholdKingdoms\obj\x86\Release\StrongholdKingdoms.exe
+F:\SHK\StrongholdKingdoms\obj\x86\Release\StrongholdKingdoms.pdb

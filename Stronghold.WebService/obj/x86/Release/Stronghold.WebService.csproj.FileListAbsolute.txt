@@ -1,0 +1,7 @@
+D:\Git\SHK\Stronghold.WebService\bin\Release\Stronghold.WebService.dll
+D:\Git\SHK\Stronghold.WebService\bin\Release\Stronghold.WebService.pdb
+D:\Git\SHK\Stronghold.WebService\bin\Release\CommonTypes.dll
+D:\Git\SHK\Stronghold.WebService\bin\Release\CookComputing.XmlRpcV2.dll
+D:\Git\SHK\Stronghold.WebService\obj\x86\Release\Stronghold.WebService.csprojResolveAssemblyReference.cache
+D:\Git\SHK\Stronghold.WebService\obj\x86\Release\Stronghold.WebService.dll
+D:\Git\SHK\Stronghold.WebService\obj\x86\Release\Stronghold.WebService.pdb
