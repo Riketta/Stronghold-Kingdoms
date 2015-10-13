@@ -9,10 +9,9 @@ Fully work game client source + bot
 Game version: 2.0.26.1  
 Path to game: C:/ProgramData/Firefly Studios/Stronghold Kingdoms/2.0.26.1/  
   
-Author
+Help
 -----------
 Site: http://shkbot.xyz/  
-e-mail: rowneg@bk.ru  
   
 Features:
 -----------
