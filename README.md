@@ -1,3 +1,5 @@
+#Only for educational purposes and personal using!
+
 # Stronghold-Kingdoms
 Fully work game client source + bot  
   
