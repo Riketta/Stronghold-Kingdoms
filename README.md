@@ -8,6 +8,10 @@ Fully work game client source + bot
   
 Game version: 2.0.26.1  
 Path to game: C:/ProgramData/Firefly Studios/Stronghold Kingdoms/2.0.26.1/  
+
+# Compile and Install  
+Compile project in VisualStudio with all linked references. They should be placed in game folder (near StrongholdKingdoms.exe).  
+Replace original StrongholdKingdoms.exe with compiled and launch it without launcher (updater).
   
 Help
 -----------
